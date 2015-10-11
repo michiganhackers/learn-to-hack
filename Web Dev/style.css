@@ -1,0 +1,61 @@
+body {
+	margin: 0;
+}
+
+.jumbotron {
+	background-color: #34495e;
+	padding: 40px 0;
+}
+
+.jumbotron h1 {
+	color: white;
+	margin: 0;
+	text-align: center;
+}
+
+.side-bar {
+	position: absolute;
+	top: 117px;
+	bottom: 0;
+	width: 20%;
+	background-color: #2980b9;
+}
+
+.side-bar h5 {
+	margin-left: 20px;
+}
+
+.side-bar ul {
+	list-style: none;
+	padding-left: 20px;
+}
+
+.side-bar ul li:hover {
+	color: red;
+}
+
+.side-bar ul a {
+	color: black;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+.side-bar ul li {
+	margin-bottom: 8px;
+}
+
+.content {
+	padding-left: 20%;
+}
+
+.content h3 {
+	margin-left: 20px;
+}
+
+.content p {
+	margin-left: 20px;
+}
+
+#cartoon-image {
+	float: left;
+}
