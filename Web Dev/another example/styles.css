@@ -1,0 +1,78 @@
+body {
+	margin: 0;
+	font-family: sans-serif;
+}
+
+.jumbotron {
+	background-color: #34495e;
+	padding: 40px 0;
+}
+
+.jumbotron h1 {
+	color: white;
+	margin: 0;
+	text-align: center;
+}
+
+.side-bar {
+	position: absolute;
+	top: 117px;
+	bottom: 0;
+	width: 25%;
+	background-color: #2980b9;
+}
+
+.side-bar h5 {
+	margin-left: 20px;
+	color: #cccccc;
+}
+
+.side-bar ul {
+	list-style: none;
+	padding-left: 20px;
+}
+
+.side-bar ul a {
+	text-decoration: none;
+	color: white;
+}
+
+.side-bar ul a :hover {
+	text-decoration: underline;
+}
+
+.side-bar ul li {
+	margin-bottom: 8px;
+}
+
+.bolded {
+	font-weight: 900;
+	text-decoration: bold;
+	font-size: 120%;
+	color: red;
+}
+
+.content {
+	margin-left: 25%;
+}
+
+.content h3 {
+	margin-left: 20px;
+}
+
+.content p {
+	margin-left: 20px;
+}
+
+.form {
+	padding-left: 3vw;
+}
+
+#logo {
+	float: right;
+	margin-right: 20px;
+}
+
+#gitvideo {
+	padding: 20px;
+}
